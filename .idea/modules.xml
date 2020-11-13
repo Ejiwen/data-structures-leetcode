@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adt/Adt.iml" filepath="$PROJECT_DIR$/Adt/Adt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learning-datastructures.iml" filepath="$PROJECT_DIR$/.idea/learning-datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
     </modules>
   </component>
 </project>
